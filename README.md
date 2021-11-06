@@ -1,2 +1,2 @@
 # opencensus-influxdb-exporter
-influxDB exporter for the opencensus.
+InfluxDB metrics exporter for OpenCensus.io
