@@ -1,12 +1,12 @@
-# opencensus-influxdb-exporter
+# opencensus-exporter-influxdb
 
-![Build](https://github.com/starvn/opencensus-influxdb-exporter/actions/workflows/go.yml/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/starvn/opencensus-influxdb-exporter)](https://goreportcard.com/report/github.com/starvn/opencensus-influxdb-exporter) [![GoDoc](https://godoc.org/github.com/opencensus-influxdb-exporter/opencensus-influxdb-exporter?status.svg)](https://godoc.org/github.com/starvn/opencensus-influxdb-exporter)
+![Build](https://github.com/starvn/opencensus-exporter-influxdb/actions/workflows/go.yml/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/starvn/opencensus-exporter-influxdb)](https://goreportcard.com/report/github.com/starvn/opencensus-exporter-influxdb) [![GoDoc](https://godoc.org/github.com/opencensus-exporter-influxdb/opencensus-exporter-influxdb?status.svg)](https://godoc.org/github.com/starvn/opencensus-exporter-influxdb)
 
 InfluxDB metrics exporter for OpenCensus.io
 
 ## Installation
 
-	$ go get -u github.com/starvn/opencensus-influxdb-exporter
+	$ go get -u github.com/starvn/opencensus-exporter-influxdb
 
 ## Register
 

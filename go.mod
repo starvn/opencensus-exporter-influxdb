@@ -1,4 +1,4 @@
-module github.com/starvn/opencensus-influxdb-exporter
+module github.com/starvn/opencensus-exporter-influxdb
 
 go 1.17
 
