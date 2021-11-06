@@ -6,7 +6,7 @@ InfluxDB metrics exporter for OpenCensus.io
 
 ## Installation
 
-	$ go get -u github.com/kpacha/opencensus-influxdb
+	$ go get -u github.com/starvn/opencensus-influxdb-exporter
 
 ## Register
 
